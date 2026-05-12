@@ -1,0 +1,5 @@
+.venv/
+.env
+__pycache__/
+G-MAX Communication Protocol modbusTcp-EN-20250805.xlsx
+Modbus TCP example (1).pdf
